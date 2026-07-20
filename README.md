@@ -26,7 +26,7 @@ My core toolkit for building data pipelines and models:
 * **Educational Notebooks:** Step-by-step guides breaking down complex data science workflows for the Kaggle community.
 
 ## 🤝 Let's Connect
-I am actively taking on freelance machine learning and data engineering projects. If you need a data pipeline optimized, a predictive model built, or complex data transformed into clear visualizations, let's talk.
+I am actively taking on freelance machine learning and data engineering clients. If you need a data pipeline optimized, a predictive model built, or complex data transformed into clear visualizations, let's talk.
 
 LinkedIn: [Message Me!](https://www.linkedin.com/in/cartelsmith/)
 
