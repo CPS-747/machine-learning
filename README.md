@@ -28,9 +28,8 @@ My core toolkit for building data pipelines and models:
 ## 🤝 Let's Connect
 I am actively taking on freelance machine learning and data engineering projects. If you need a data pipeline optimized, a predictive model built, or complex data transformed into clear visualizations, let's talk.
 
-Kaggle: [Feature Assassin](https://www.kaggle.com/cartelsmith)
+LinkedIn: [Message Me!](https://www.linkedin.com/in/cartelsmith/)
 
-If you find the educational notebooks in this repository helpful, feel free to give it a star!
   
 ## 📂 Repository Structure (coming soon)
 
